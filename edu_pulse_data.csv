@@ -1,0 +1,201 @@
+Student_ID,Subject,Attendance_Rate,Study_Hours_Weekly,Quiz_Avg,Midterm_Score,Final_Grade
+1,Logic Design,76,16,14.1,29.8,61.5
+2,Mathematics,86,26,14.5,18.2,52.3
+3,Database,95,10,19.6,26.9,64.5
+4,Logic Design,67,6,17.2,24.0,56.3
+5,Data Structures,88,11,15.3,15.5,45.7
+6,Logic Design,61,6,19.9,19.4,53.4
+7,Mathematics,71,15,14.0,26.4,56.2
+8,Database,97,27,11.4,16.3,46.3
+9,Mathematics,65,9,14.8,15.1,46.2
+10,Logic Design,89,21,12.1,21.1,49.2
+11,Logic Design,70,7,16.5,17.9,47.0
+12,Mathematics,90,11,13.0,17.7,43.8
+13,Database,91,10,16.5,23.8,56.5
+14,Mathematics,68,17,14.0,23.3,54.8
+15,Mathematics,97,5,18.4,29.8,66.0
+16,Mathematics,81,28,16.1,29.4,65.8
+17,Logic Design,72,21,10.3,15.3,43.0
+18,Database,86,19,12.6,17.3,46.6
+19,Mathematics,88,19,16.8,19.6,50.6
+20,Mathematics,68,27,13.0,28.7,63.4
+21,Data Structures,65,7,14.3,15.8,40.2
+22,Database,74,21,17.2,28.7,67.3
+23,Logic Design,99,20,12.3,25.7,57.0
+24,Mathematics,78,26,16.3,26.0,65.3
+25,Logic Design,85,19,18.2,25.4,67.5
+26,Logic Design,79,22,14.2,21.2,52.8
+27,Data Structures,87,7,18.5,15.9,48.6
+28,Data Structures,70,17,15.6,19.8,51.7
+29,Database,86,17,19.2,20.8,56.8
+30,Database,97,18,10.2,25.6,55.6
+31,Database,94,26,15.4,22.5,60.4
+32,Mathematics,71,13,19.4,17.1,52.9
+33,Mathematics,68,10,12.3,20.4,45.4
+34,Database,87,28,10.0,15.5,41.5
+35,Data Structures,73,25,19.8,20.3,60.0
+36,Logic Design,68,24,16.3,16.3,47.6
+37,Database,93,26,14.9,28.1,63.8
+38,Mathematics,88,14,12.1,29.4,57.1
+39,Logic Design,99,7,16.4,19.9,50.6
+40,Data Structures,62,20,11.5,17.8,49.4
+41,Mathematics,72,13,15.1,22.4,50.8
+42,Logic Design,93,28,11.6,15.4,47.3
+43,Database,78,10,16.7,24.7,54.6
+44,Database,77,8,18.4,23.5,60.6
+45,Mathematics,82,26,12.8,28.5,63.6
+46,Logic Design,77,27,17.2,18.8,56.8
+47,Database,66,18,14.7,23.2,55.4
+48,Database,83,17,11.1,17.0,42.6
+49,Logic Design,98,15,18.0,27.6,61.4
+50,Mathematics,75,20,11.8,26.3,54.4
+51,Data Structures,77,5,17.1,15.5,43.4
+52,Mathematics,92,5,17.1,15.7,42.8
+53,Data Structures,84,19,13.4,17.5,46.9
+54,Database,69,8,17.3,15.3,45.7
+55,Logic Design,83,5,17.3,25.0,53.4
+56,Logic Design,92,8,19.8,29.5,65.2
+57,Logic Design,75,16,12.9,20.2,50.7
+58,Mathematics,93,25,17.7,18.3,56.7
+59,Mathematics,89,24,18.8,18.1,57.3
+60,Logic Design,71,20,12.7,22.2,49.3
+61,Mathematics,98,13,12.1,26.7,54.5
+62,Mathematics,90,12,12.3,20.9,46.4
+63,Logic Design,72,8,10.9,19.0,44.0
+64,Data Structures,86,16,18.5,15.1,46.3
+65,Logic Design,93,17,10.5,19.1,44.3
+66,Logic Design,70,14,18.9,28.0,69.7
+67,Database,72,14,10.2,20.8,46.5
+68,Database,78,6,18.8,29.9,62.3
+69,Data Structures,85,6,19.6,18.1,51.5
+70,Mathematics,95,5,14.9,21.0,52.9
+71,Data Structures,75,16,15.8,22.7,55.7
+72,Mathematics,98,9,19.0,26.5,65.7
+73,Database,80,25,14.5,15.0,47.3
+74,Logic Design,87,23,12.0,22.0,51.2
+75,Logic Design,93,28,13.2,22.6,53.5
+76,Mathematics,73,13,18.2,15.4,48.3
+77,Logic Design,84,5,11.6,23.8,45.8
+78,Logic Design,88,13,10.3,17.2,39.6
+79,Data Structures,66,29,18.4,22.5,64.0
+80,Logic Design,84,5,19.3,18.6,52.9
+81,Data Structures,87,16,19.5,30.0,70.5
+82,Mathematics,97,24,19.3,18.6,56.5
+83,Data Structures,80,9,13.3,26.2,55.9
+84,Data Structures,73,9,12.2,19.3,40.0
+85,Data Structures,97,22,17.4,16.9,54.8
+86,Mathematics,99,14,11.3,18.7,40.5
+87,Mathematics,79,13,13.9,26.8,55.0
+88,Logic Design,99,23,12.1,26.1,55.6
+89,Logic Design,87,18,13.1,21.2,54.7
+90,Database,84,27,14.5,18.1,49.9
+91,Logic Design,69,11,13.1,28.5,58.7
+92,Data Structures,63,28,13.0,19.1,50.8
+93,Database,67,16,19.9,17.7,53.7
+94,Logic Design,95,15,13.7,20.9,50.7
+95,Mathematics,72,11,19.2,24.6,60.7
+96,Mathematics,65,8,15.2,18.9,50.1
+97,Database,68,18,12.2,17.8,44.5
+98,Database,86,25,19.1,17.5,55.8
+99,Logic Design,64,22,12.3,27.5,56.8
+100,Mathematics,89,7,15.9,22.9,54.3
+101,Mathematics,93,11,18.2,24.9,61.5
+102,Logic Design,79,7,19.6,20.5,57.4
+103,Mathematics,89,12,13.5,25.8,54.1
+104,Mathematics,97,12,18.6,19.2,53.5
+105,Data Structures,67,10,19.7,16.5,53.6
+106,Mathematics,88,9,18.6,28.7,64.7
+107,Logic Design,84,12,14.7,19.9,50.2
+108,Data Structures,83,24,11.6,22.0,50.3
+109,Database,84,22,15.6,28.1,65.0
+110,Mathematics,78,21,13.0,23.3,52.4
+111,Mathematics,76,22,11.1,18.2,45.3
+112,Mathematics,65,19,19.1,17.8,51.7
+113,Database,73,17,12.1,24.4,47.6
+114,Data Structures,88,10,10.0,16.2,38.6
+115,Database,88,29,11.5,23.8,51.3
+116,Database,68,9,12.0,20.7,49.1
+117,Logic Design,65,20,12.8,26.2,58.0
+118,Database,89,23,11.8,25.4,54.9
+119,Database,88,11,15.5,18.0,47.1
+120,Data Structures,91,20,15.5,15.9,47.1
+121,Logic Design,93,27,10.0,19.9,42.9
+122,Data Structures,75,7,15.7,26.2,57.1
+123,Mathematics,86,29,15.8,20.2,55.4
+124,Logic Design,84,18,19.0,22.3,60.5
+125,Data Structures,76,27,19.5,24.9,66.9
+126,Database,88,29,14.0,18.3,50.4
+127,Mathematics,96,15,13.4,22.5,49.8
+128,Mathematics,93,25,16.4,20.9,58.6
+129,Mathematics,62,21,11.6,20.1,45.9
+130,Logic Design,83,12,16.2,29.4,61.0
+131,Database,67,13,10.4,27.8,53.0
+132,Mathematics,66,8,17.2,15.2,51.9
+133,Database,91,10,15.8,17.5,49.1
+134,Data Structures,92,23,16.7,21.9,55.5
+135,Database,84,6,14.2,16.0,42.3
+136,Logic Design,77,9,14.4,27.6,57.1
+137,Logic Design,89,5,11.4,30.0,53.5
+138,Mathematics,88,12,18.6,22.4,57.5
+139,Mathematics,93,20,17.2,24.3,61.2
+140,Mathematics,63,25,17.0,26.6,64.6
+141,Mathematics,95,16,14.5,20.0,50.5
+142,Logic Design,64,24,12.8,28.5,61.6
+143,Mathematics,72,11,19.6,17.5,52.4
+144,Database,75,9,12.8,24.6,50.7
+145,Database,93,13,13.8,17.8,48.6
+146,Database,73,27,14.7,16.6,50.7
+147,Mathematics,72,8,11.5,18.0,42.5
+148,Logic Design,90,7,18.1,17.1,49.7
+149,Mathematics,89,28,17.4,28.8,70.5
+150,Mathematics,69,21,11.4,27.6,55.9
+151,Mathematics,65,18,16.2,17.3,49.5
+152,Database,87,15,14.9,25.1,57.2
+153,Database,79,11,15.8,18.6,50.8
+154,Data Structures,99,7,16.8,27.7,59.0
+155,Data Structures,88,29,13.0,16.7,46.7
+156,Logic Design,61,8,14.5,17.9,44.3
+157,Mathematics,84,23,12.7,17.6,45.7
+158,Mathematics,99,28,18.7,24.8,64.9
+159,Mathematics,85,22,19.4,18.3,55.8
+160,Logic Design,76,7,14.4,16.3,42.7
+161,Database,71,25,13.8,29.1,64.6
+162,Database,70,11,19.9,30.0,69.3
+163,Data Structures,68,11,13.5,21.5,45.5
+164,Data Structures,83,29,17.9,29.1,67.3
+165,Data Structures,93,18,10.0,15.1,37.0
+166,Data Structures,69,19,13.9,25.0,56.9
+167,Data Structures,77,13,19.3,17.5,52.4
+168,Database,74,17,16.7,15.6,50.2
+169,Data Structures,95,11,11.3,16.6,41.1
+170,Database,85,12,13.6,23.3,50.9
+171,Mathematics,84,28,18.4,28.3,69.5
+172,Logic Design,78,16,11.7,25.8,52.0
+173,Database,89,14,11.5,23.7,49.3
+174,Logic Design,77,17,18.0,29.1,68.6
+175,Logic Design,62,7,14.8,24.0,54.9
+176,Data Structures,91,25,12.0,20.8,47.3
+177,Logic Design,75,7,11.1,25.3,43.6
+178,Mathematics,60,23,16.2,22.0,59.7
+179,Database,72,11,17.9,16.4,51.6
+180,Database,94,23,14.4,18.4,50.5
+181,Data Structures,66,18,19.7,24.1,64.5
+182,Logic Design,94,18,13.9,24.8,56.2
+183,Logic Design,66,17,15.2,20.8,51.5
+184,Database,84,13,10.3,21.3,45.0
+185,Mathematics,89,15,13.0,17.9,47.8
+186,Database,76,26,18.5,26.3,66.8
+187,Data Structures,72,16,12.8,19.1,48.9
+188,Mathematics,93,11,16.2,29.5,61.8
+189,Data Structures,70,8,16.8,27.1,61.5
+190,Database,99,26,13.1,18.3,50.7
+191,Database,73,17,12.1,22.6,48.0
+192,Database,96,23,10.9,27.3,54.5
+193,Data Structures,63,19,18.1,25.6,63.0
+194,Data Structures,84,28,14.9,25.2,62.5
+195,Mathematics,89,12,11.7,27.3,52.8
+196,Database,88,21,13.5,15.8,48.1
+197,Mathematics,71,5,18.3,25.3,61.9
+198,Logic Design,95,5,14.1,27.2,53.5
+199,Data Structures,90,6,14.3,28.6,60.3
+200,Data Structures,92,26,18.7,26.9,65.3
